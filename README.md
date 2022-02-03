@@ -1,5 +1,6 @@
 # express-auth
 The Backend for implement auth for user.
+It needs Node js and Mongodb as Installed.
 # Steps
 ## Install dependencies
 - npm i
